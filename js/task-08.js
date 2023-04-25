@@ -14,6 +14,7 @@ formEl.addEventListener("submit", (event) =>{
         
         console.log(userData)
     }
+    formEl.reset()
 });
 
 f
