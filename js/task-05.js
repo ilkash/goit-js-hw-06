@@ -9,5 +9,4 @@ function onInputAdd(event) {
         span.textContent = 'Anonymous'
     }
    
-    
 }
