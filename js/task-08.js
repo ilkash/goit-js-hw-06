@@ -13,8 +13,8 @@ formEl.addEventListener("submit", (event) =>{
         const userData = { email:email.value, password:password.value }
         
         console.log(userData)
+           formEl.reset()
     }
-    formEl.reset()
+ 
 });
 
-f
